@@ -1,7 +1,7 @@
 # boost_1_80_0
 
 [![CircleCI](https://circleci.com/gh/rcsoccersim/rcssserver/tree/master.svg?style=svg)](https://circleci.com/gh/rcsoccersim/rcssserver/tree/master)
-![License](https://img.shields.io/github/license/rcsoccersim/rcssserver.svg)
+![License](https://img.shields.io/github/license/posessblack/Boost_1_80_0)
 
 ![boost](https://user-images.githubusercontent.com/120306894/212659163-c586affb-ec30-4351-8495-55766f7897cb.png)
 
