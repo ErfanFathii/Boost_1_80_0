@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/rcsoccersim/rcssserver/tree/master.svg?style=svg)](https://circleci.com/gh/rcsoccersim/rcssserver/tree/master)
 ![License](https://img.shields.io/github/license/posessblack/Boost_1_80_0)
 
+
 ![boost](https://user-images.githubusercontent.com/120306894/212659163-c586affb-ec30-4351-8495-55766f7897cb.png)
 
 boost file &amp; how to install 
@@ -24,6 +25,7 @@ Secondly there are some few steps to do :
 ./b2
 sudo ./b2 install
 ```
+![issue](https://img.shields.io/github/issues/ERFANFATHi-E/Boost_1_80_0?color=blue&style=social)
 
 TADAAA! DONE.
 If there is any problem you can contact us via fathye897@gmail.com
