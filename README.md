@@ -18,7 +18,7 @@ sudo apt-get update
 sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev libbz2-dev libboost-all-dev
 ```
 
-Secondly there are some few steps to do :
+Secondly, there are a few steps to do :
 
 ```
 ./bootstrap.sh --prefix=/usr/
